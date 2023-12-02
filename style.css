@@ -1,0 +1,51 @@
+button{
+    color: red;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.register{
+    color: blue;
+    background-color: red;
+}
+
+.login{
+    color: green;
+    background-color: red;
+}
+
+.add{
+    color: red;
+    background-color: black;
+}
+
+.youtube{
+    color: blue;
+    background-color: black;
+}
+
+h1{
+    color:black;
+
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+/* textis qveda xazis gaqroba */
+a{
+    text-decoration: none;
+}
